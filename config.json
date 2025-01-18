@@ -1,0 +1,11 @@
+{
+    "trigger_hotkey": "0x12",
+    "base_delay": 0.8400000000000001,
+    "trigger_delay": 10,
+    "pixel_fov": 4,
+    "always_enabled": false,
+    "auto_counter_strafe": false,
+    "UUID": "6c7022c1344a43aaa620975136f128c4",
+    "humanization": true,
+    "sticky_aim": false
+}
